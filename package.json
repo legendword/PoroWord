@@ -1,0 +1,19 @@
+{
+  "name": "poro-word",
+  "version": "0.0.1",
+  "description": "A League of Legends Discord bot for guessing match outcomes with friends.",
+  "main": "index.js",
+  "authors": {
+    "name": "Legendword",
+    "email": "zwh@legendword.com"
+  },
+  "repository": "https://github.com/legendword/poro-word",
+  "scripts": {
+    "dev": "vuepress dev src",
+    "build": "vuepress build src"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^1.5.3"
+  }
+}
