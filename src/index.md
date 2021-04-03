@@ -1,5 +1,6 @@
 ---
 home: true
+heroImage: /logo.png
 tagline: A League of Legends Discord bot for guessing match outcomes with friends.
 actionText: Getting Started →
 actionLink: /guide/

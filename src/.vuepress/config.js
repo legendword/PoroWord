@@ -28,6 +28,7 @@ module.exports = {
    * ref：https://v1.vuepress.vuejs.org/theme/default-theme-config.html
    */
   themeConfig: {
+    logo: '/logo.png',
     repo: '',
     editLinks: false,
     docsDir: '',
